@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "bulkup",
+    "name": "Bulk Up",
+    "authors": [
+        "Landar"
+    ],
+    "description": "A library that implements a character stat system aligned with physical traits.",
+    "version": "0.0.1",
+    "dependencies": {
+        "game": ""
+    }
+}
